@@ -1,1 +1,1 @@
-develop this work based on the work of xu
+develop this work based on [google-scholar-scrapy-spider] (https://github.com/ian-kerins/google-scholar-scrapy-spider)
